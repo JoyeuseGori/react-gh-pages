@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b05096.chunk.css",
-    "main.js": "/static/js/main.ae2e2934.chunk.js",
-    "main.js.map": "/static/js/main.ae2e2934.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.46146e79.js",
-    "runtime-main.js.map": "/static/js/runtime-main.46146e79.js.map",
-    "static/js/2.80a30df2.chunk.js": "/static/js/2.80a30df2.chunk.js",
-    "static/js/2.80a30df2.chunk.js.map": "/static/js/2.80a30df2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4391cb1e433250e6ba861d8679fc3b40.js": "/precache-manifest.4391cb1e433250e6ba861d8679fc3b40.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.80a30df2.chunk.js.LICENSE.txt": "/static/js/2.80a30df2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/joyeusegori/react-gh-pages/static/css/main.d1b05096.chunk.css",
+    "main.js": "/joyeusegori/react-gh-pages/static/js/main.972f68cf.chunk.js",
+    "main.js.map": "/joyeusegori/react-gh-pages/static/js/main.972f68cf.chunk.js.map",
+    "runtime-main.js": "/joyeusegori/react-gh-pages/static/js/runtime-main.de0d73ea.js",
+    "runtime-main.js.map": "/joyeusegori/react-gh-pages/static/js/runtime-main.de0d73ea.js.map",
+    "static/js/2.80a30df2.chunk.js": "/joyeusegori/react-gh-pages/static/js/2.80a30df2.chunk.js",
+    "static/js/2.80a30df2.chunk.js.map": "/joyeusegori/react-gh-pages/static/js/2.80a30df2.chunk.js.map",
+    "index.html": "/joyeusegori/react-gh-pages/index.html",
+    "precache-manifest.979ca0d94753aed8cf64fcf0ab66494b.js": "/joyeusegori/react-gh-pages/precache-manifest.979ca0d94753aed8cf64fcf0ab66494b.js",
+    "service-worker.js": "/joyeusegori/react-gh-pages/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/joyeusegori/react-gh-pages/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.80a30df2.chunk.js.LICENSE.txt": "/joyeusegori/react-gh-pages/static/js/2.80a30df2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/joyeusegori/react-gh-pages/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.46146e79.js",
+    "static/js/runtime-main.de0d73ea.js",
     "static/js/2.80a30df2.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.ae2e2934.chunk.js"
+    "static/js/main.972f68cf.chunk.js"
   ]
 }
