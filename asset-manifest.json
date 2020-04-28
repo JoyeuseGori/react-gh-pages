@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.3417dbb2.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.3417dbb2.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.067920d2.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.067920d2.js.map",
-    "static/js/2.80a30df2.chunk.js": "/react-gh-pages/static/js/2.80a30df2.chunk.js",
-    "static/js/2.80a30df2.chunk.js.map": "/react-gh-pages/static/js/2.80a30df2.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.ebd79dbe363ab459462154abdf8553f9.js": "/react-gh-pages/precache-manifest.ebd79dbe363ab459462154abdf8553f9.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/react-gh-pages/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.80a30df2.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.80a30df2.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/JoyeuseGori/react-gh-pages/static/css/main.d1b05096.chunk.css",
+    "main.js": "/JoyeuseGori/react-gh-pages/static/js/main.ae0727f2.chunk.js",
+    "main.js.map": "/JoyeuseGori/react-gh-pages/static/js/main.ae0727f2.chunk.js.map",
+    "runtime-main.js": "/JoyeuseGori/react-gh-pages/static/js/runtime-main.0d8f887c.js",
+    "runtime-main.js.map": "/JoyeuseGori/react-gh-pages/static/js/runtime-main.0d8f887c.js.map",
+    "static/js/2.80a30df2.chunk.js": "/JoyeuseGori/react-gh-pages/static/js/2.80a30df2.chunk.js",
+    "static/js/2.80a30df2.chunk.js.map": "/JoyeuseGori/react-gh-pages/static/js/2.80a30df2.chunk.js.map",
+    "index.html": "/JoyeuseGori/react-gh-pages/index.html",
+    "precache-manifest.ea9c7bafcaf5910697885dd454abaefd.js": "/JoyeuseGori/react-gh-pages/precache-manifest.ea9c7bafcaf5910697885dd454abaefd.js",
+    "service-worker.js": "/JoyeuseGori/react-gh-pages/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/JoyeuseGori/react-gh-pages/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.80a30df2.chunk.js.LICENSE.txt": "/JoyeuseGori/react-gh-pages/static/js/2.80a30df2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/JoyeuseGori/react-gh-pages/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.067920d2.js",
+    "static/js/runtime-main.0d8f887c.js",
     "static/js/2.80a30df2.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.3417dbb2.chunk.js"
+    "static/js/main.ae0727f2.chunk.js"
   ]
 }
